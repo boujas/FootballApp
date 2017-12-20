@@ -1,0 +1,18 @@
+<resources>
+
+    <string name="app_name">FootballApp</string>
+    <string name="some_error">Some error has occurred</string>
+
+    <string name="league_name">League name</string>
+    <string name="games">Gamese</string>
+    <string name="teams">Teams</string>
+    <string name="matchdays">Matchdays</string>
+    <string name="curr_machday">Cur. machday</string>
+    <string name="year">Year</string>
+    <string name="name">Name</string>
+    <string name="played_games">Played games</string>
+    <string name="goals">Goals</string>
+    <string name="wins">Wins</string>
+    <string name="losses">Losses</string>
+
+</resources>
